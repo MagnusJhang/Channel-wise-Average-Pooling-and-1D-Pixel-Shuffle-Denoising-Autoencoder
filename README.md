@@ -204,3 +204,24 @@ $ source ./virtualenv/bin/activate
 ```console
 $ pip install -r requirements.txt
 ```
+
+### Citation
+Original paper: [Channel-Wise Average Pooling and 1D Pixel-Shuffle Denoising Autoencoder for Electrode Motion Artifact Removal in ECG](https://www.mdpi.com/2076-3417/12/14/6957)
+
+    
+Please cite this paper in your publications if it helps your research:
+```bibtex
+
+@Article{app12146957,
+    UTHOR = {Jhang, Yu-Syuan and Wang, Szu-Ting and Sheu, Ming-Hwa and Wang, Szu-Hong and Lai,     hin-Chi},
+    ITLE = {Channel-Wise Average Pooling and 1D Pixel-Shuffle Denoising Autoencoder for Electrode  otion Artifact Removal in ECG},
+    OURNAL = {Applied Sciences},
+    OLUME = {12},
+    EAR = {2022},
+    UMBER = {14},
+    RTICLE-NUMBER = {6957},
+    RL = {https://www.mdpi.com/2076-3417/12/14/6957},
+    SSN = {2076-3417},
+    DOI = {10.3390/app12146957}
+}
+```
